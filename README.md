@@ -3,12 +3,11 @@
 [![Website](https://img.shields.io/website?label=Khalil-Anebdour.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://opacanebdour.github.io/Portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KhalilANEBDOUR?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KhalilANEBDOUR)
 
-## I'm a Software Engineer & Photographer!!
+## I'm a Software Engineer & Photographer
 
 - 🌱 I’m currently learning everything ( thirsty to learn) 🤣🤤🍽️
 - 👯 I’m looking for new challenges and seeeeek to promote in software design 
-- 🥅 2020 Goals: Contribute to Open Source projects && Write more articles tooo [medium]
-- ⚡ Fun fact: I love to draw and take photos check my collection 👉🏼👉🏼[photoCollection]  
+- ⚡ Fun fact: I like to draw and take photos check my collection 👉🏼👉🏼[photoCollection]  
 
 ### I listen to this while coding 🎧
 
